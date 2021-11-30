@@ -21,6 +21,11 @@ Feel free to use this Markdown file as your README template
       <p>● Pronouns: He/him/his</p>
       <p>● Currently learning: C#, Tensorflow</p>
       <p>● Looking for: Collabs, projects, work offers and some nice talks.</p>
+      <a href="https://www.linkedin.com/in/leonardo-zamudio-lopez/"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"></a>
+      <a href="https://dev.to/leo_zamudio"><img src="https://img.icons8.com/windows/50/ffffff/dev.png"></a>
+      <a href="https://medium.com/@leozamudio"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/medium-logo.png"></a>
+      <a href="https://www.instagram.com/leo.zmd/"><img src="https://img.icons8.com/material-outlined/50/ffffff/instagram-new--v1.png"></a>
+      <a href="https://www.facebook.com/leo.zamudio.8/"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/facebook.png"></a>
     </td>
   </tr>
 </table>
@@ -387,22 +392,12 @@ Feel free to use this Markdown file as your README template
 </table>
 <br>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Github Stats
 
-<details>
-  <summary><b>GitHub Profile Stats</b></summary>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com?user=leozmd&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=leozmd&theme=tokyonight"></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozmd&theme=tokyonight"></p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <p><img src="https://activity-graph.herokuapp.com/graph?username=leozmd&theme=github"></p>
-</details>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=leozmd&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=leozmd&theme=tokyonight"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozmd&theme=tokyonight"></p>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p><img src="https://activity-graph.herokuapp.com/graph?username=leozmd&theme=github"></p>
+
 <br/>
-
-## 🌐 Let's connect!
-
-<a href="https://www.linkedin.com/in/leonardo-zamudio-lopez/"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"></a>
-<a href="https://dev.to/leo_zamudio"><img src="https://img.icons8.com/windows/50/ffffff/dev.png"></a>
-<a href="https://medium.com/@leozamudio"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/medium-logo.png"></a>
-<a href="https://www.instagram.com/leo.zmd/"><img src="https://img.icons8.com/material-outlined/50/ffffff/instagram-new--v1.png"></a>
-<a href="https://www.facebook.com/leo.zamudio.8/"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/facebook.png"></a>
