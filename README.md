@@ -39,7 +39,7 @@ Feel free to use this Markdown file as your README template
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="http://verekia.com/_pages/css3/introduction-css3/img/css3-logo.png" height="50px">
+        <img src="https://s2.qwant.com/thumbr/0x380/7/7/b06685b33ef0f38ab2ccb0422e12b36e49a7363cc9f6d6aed54f23552475fc/css3-logo.png?u=http%3A%2F%2Fverekia.com%2F_pages%2Fcss3%2Fintroduction-css3%2Fimg%2Fcss3-logo.png&q=0&b=1&p=0&a=0" height="50px">
       </a>
       <br>CSS
     </td>
@@ -402,6 +402,7 @@ Feel free to use this Markdown file as your README template
 ## 🌐 Let's connect!
 
 <a href="https://www.linkedin.com/in/leonardo-zamudio-lopez/"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"></a>
-<a href="https://dev.to/leo_zamudio"><img src="https://img.icons8.com/windows/50/ffffff/dev.png"/></a>
-<a href="https://www.instagram.com/leo.zmd/"><img src="https://img.icons8.com/material-outlined/50/ffffff/instagram-new--v1.png"/></a>
-<a href="https://www.facebook.com/leo.zamudio.8/"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/facebook.png"/></a>
+<a href="https://dev.to/leo_zamudio"><img src="https://img.icons8.com/windows/50/ffffff/dev.png"></a>
+<a href="https://medium.com/@leozamudio"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/medium-logo.png"></a>
+<a href="https://www.instagram.com/leo.zmd/"><img src="https://img.icons8.com/material-outlined/50/ffffff/instagram-new--v1.png"></a>
+<a href="https://www.facebook.com/leo.zamudio.8/"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/facebook.png"></a>
