@@ -22,17 +22,18 @@ Feel free to use this Markdown file as your README template
       <p>● Currently learning: C#, Tensorflow</p>
       <p>● Looking for: Collabs, projects, work offers and some nice talks.</p>
       <a href="https://www.linkedin.com/in/leonardo-zamudio-lopez/"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"></a>
+      <a href="mailto:zamudio.lopez.leonardo.3108@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png"></a>
+      <a href="https://www.facebook.com/leo.zamudio.8/"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/facebook.png"></a>
+      <a href="https://www.instagram.com/leo.zmd/"><img src="https://img.icons8.com/material-outlined/50/ffffff/instagram-new--v1.png"></a>
       <a href="https://dev.to/leo_zamudio"><img src="https://img.icons8.com/windows/50/ffffff/dev.png"></a>
       <a href="https://medium.com/@leozamudio"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/medium-logo.png"></a>
-      <a href="https://www.instagram.com/leo.zmd/"><img src="https://img.icons8.com/material-outlined/50/ffffff/instagram-new--v1.png"></a>
-      <a href="https://www.facebook.com/leo.zamudio.8/"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/facebook.png"></a>
     </td>
   </tr>
 </table>
 <br/>
 
-## ⚙ My Skills
-### 🌐 Web Development
+<h2>⚙ My Skills</h2>
+<h3>🌐 Web Development</h3>
 <h4 align="center">💻 Front-End</h4>
 <table align="center" cellspacing="0">
   <tr>
@@ -101,7 +102,7 @@ Feel free to use this Markdown file as your README template
 </table>
 <hr>
 
-### 💾 Data Storage and Processing
+<h3>💾 Data Storage and Processing</h3>
 <h4 align="center">🗃 Databases</h4>
 <table align="center" cellspacing="0">
   <tr>
@@ -151,7 +152,7 @@ Feel free to use this Markdown file as your README template
 </table>
 <hr>
 
-### ☁ Cloud Computing and Hosting
+<h3>☁ Cloud Computing and Hosting</h3>
 <h4 align="center">📡 Cloud Computing Services</h4>
 <table align="center" cellspacing="0">
   <tr>
@@ -183,7 +184,7 @@ Feel free to use this Markdown file as your README template
 </table>
 <hr>
 
-### 📅 Version Control
+<h3>📅 Version Control</h3>
 <h4 align="center">🖥 Software</h4>
 <table align="center" cellspacing="0">
   <tr>
@@ -203,7 +204,7 @@ Feel free to use this Markdown file as your README template
 </table>
 <hr>
 
-### ✏ UX/UI & Graphic Design
+<h3>✏ UX/UI & Graphic Design</h3>
 <h4 align="center">🔧 Tools</h4>
 <table align="center" cellspacing="0">
   <tr>
@@ -235,7 +236,7 @@ Feel free to use this Markdown file as your README template
 </table>
 <hr>
 
-### 🛠 Other Software Tools
+<h3>🛠 Other Software Tools</h3>
 <h4 align="center">💻 Operative Systems</h4>
 <table align="center" cellspacing="0">
   <tr>
@@ -376,7 +377,7 @@ Feel free to use this Markdown file as your README template
 
 <br/>
 
-## 📔 Projects
+<h2>📔 Projects</h2>
 <table>
   <tr>
     <td>
@@ -392,122 +393,122 @@ Feel free to use this Markdown file as your README template
 </table>
 <br>
 
-## 📃 Certifications (In alphabetical order)
+<h2>📃 Certifications (In alphabetical order)</h2>
 <details>
   <summary><b>Expand to view</b></summary>
   <ul>
     <li>
-      <a href="">
+      <a href="https://capacitateparaelempleo.org/verifica/7b8a27baw/">
         <h3>Back-End Developer</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://capacitateparaelempleo.org/verifica/v577g2wcj/">
         <h3>Big Data Visualizer</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://capacitateparaelempleo.org/verifica/xcm7udcp5/">
         <h3>Cloud Computing Fundamentals</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://www.udemy.com/certificate/UC-7af02d5f-abe8-43dd-a564-90ef64081e46/">
         <h3>Cybersecurity for businesses and individuals</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://capacitateparaelempleo.org/verifica/0g0dswrtj/">
         <h3>Data Analyst</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://capacitateparaelempleo.org/verifica/27m6absrd/">
         <h3>Data Curator</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://capacitateparaelempleo.org/verifica/w91myhjao/">
         <h3>Data Networks Technician</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://capacitateparaelempleo.org/verifica/orp42nzrt/">
         <h3>Databases Administrator</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://www.udemy.com/certificate/UC-02536748-5c26-4918-906f-7b9d3dd2adbb/">
         <h3>Deep Web - The complete Introduction to the hidden web</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://learndigital.withgoogle.com/activate/validate-certificate-code">
         <h3>Digitize your business with Google MyBussiness and YouTube</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://capacitateparaelempleo.org/verifica/5orrzkwn0/">
         <h3>Economic Culture (Introduction)</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://capacitateparaelempleo.org/verifica/lzfzcmgtz/">
         <h3>Finder</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://capacitateparaelempleo.org/verifica/a362aq4re/">
         <h3>Front-End Developer</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://capacitateparaelempleo.org/verifica/7qx3b6v73/">
         <h3>Global Citizen</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://www.linkedin.com/learning/como-establecer-y-cumplir-tus-objetivos-profesionales/como-establecer-y-cumplir-tus-objetivos-profesionales">
         <h3>How to set and meet your professional goals</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://learndigital.withgoogle.com/activate/validate-certificate-code">
         <h3>Introduction to Web Development I</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://learndigital.withgoogle.com/activate/validate-certificate-code">
         <h3>Introduction to Web Development II</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://portal.certiport.com/Portal/Pages/CredentialVerification.aspx">
         <h3>Microsoft Certified Azure Fundamentals</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://www.udemy.com/certificate/UC-c60256a9-cb32-4157-b3bd-2a2890818edd/">
         <h3>MySQL Database Development Mastery</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://capacitateparaelempleo.org/verifica/qlu9c4yfm/">
         <h3>Programmer (object oriented)</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://learndigital.withgoogle.com/activate/validate-certificate-code">
         <h3>Protect your company: Cybersecurity in Teleworking</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://capacitateparaelempleo.org/verifica/zglq0mwz2/">
         <h3>Servers Administrator</h3>
       </a>
     </li>
     <li>
-      <a href="">
+      <a href="https://www.udemy.com/certificate/UC-8b255544-7f06-43eb-bab0-d0e1f6e09512/">
         <h3>Software Quality: 8 Essential KPIs for Quality Assurance</h3>
       </a>
     </li>
@@ -515,10 +516,9 @@ Feel free to use this Markdown file as your README template
 </details>
 <br>
 
-## 📊 Github Stats
-
+<h2>📊 Github Stats</h2>
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=leozmd&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=leozmd&theme=tokyonight"></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozmd&theme=tokyonight"></p>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 <p><img src="https://activity-graph.herokuapp.com/graph?username=leozmd&theme=github"></p>
