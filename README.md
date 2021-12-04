@@ -392,6 +392,129 @@ Feel free to use this Markdown file as your README template
 </table>
 <br>
 
+## 📃 Certifications (In alphabetical order)
+<details>
+  <summary><b>Expand to view</b></summary>
+  <ul>
+    <li>
+      <a href="">
+        <h3>Back-End Developer</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Big Data Visualizer</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Cloud Computing Fundamentals</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Cybersecurity for businesses and individuals</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Data Analyst</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Data Curator</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Data Networks Technician</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Databases Administrator</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Deep Web - The complete Introduction to the hidden web</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Digitize your business with Google MyBussiness and YouTube</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Economic Culture (Introduction)</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Finder</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Front-End Developer</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Global Citizen</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>How to set and meet your professional goals</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Introduction to Web Development I</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Introduction to Web Development II</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Microsoft Certified Azure Fundamentals</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>MySQL Database Development Mastery</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Programmer (object oriented)</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Protect your company: Cybersecurity in Teleworking</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Servers Administrator</h3>
+      </a>
+    </li>
+    <li>
+      <a href="">
+        <h3>Software Quality: 8 Essential KPIs for Quality Assurance</h3>
+      </a>
+    </li>
+  </ul>
+</details>
+<br>
+
 ## 📊 Github Stats
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=leozmd&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"></p>
