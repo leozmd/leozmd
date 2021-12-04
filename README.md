@@ -174,7 +174,7 @@ Feel free to use this Markdown file as your README template
       <br>GitHub Pages
     </td>
     <td align="center" width="96">
-      <a href="www.heroku.com">
+      <a href="https://www.heroku.com">
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fheroku-logo-3.png&f=1&nofb=1" height="50px">
       </a>
       <br>Heroku
