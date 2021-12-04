@@ -522,5 +522,3 @@ Feel free to use this Markdown file as your README template
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozmd&theme=tokyonight"></p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <p><img src="https://activity-graph.herokuapp.com/graph?username=leozmd&theme=github"></p>
-
-<br/>
