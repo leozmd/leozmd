@@ -16,23 +16,67 @@ Feel free to use this Markdown file as your README template
       <img src="https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/246416002_336008178325938_350450232364148551_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGQFzt32_3Zuj46cxCBM5yuJP8AkZe-Yj8k_wCRl75iP6DafY_O-d8-Zv5Rb9PSQMjltIY70lQ0Iwk1DDNjKjdy&_nc_ohc=JrRl8c8K1l0AX-gGjxJ&_nc_ht=scontent.fmex1-1.fna&oh=69c9fcf6c1beb34e096ad090508fe277&oe=61AC1597" height="300px">
     </td>
     <td>
+      <h3 align="center">General information</h3>
       <p>● Name: Leonardo Zamudio López</p>
-      <p>● Ocuppation: Student</p>
+      <p>● Occupation: Student</p>
       <p>● Pronouns: He/him/his</p>
       <p>● Currently learning: C#, Tensorflow</p>
       <p>● Looking for: Collabs, projects, work offers and some nice talks.</p>
-      <a href="https://www.linkedin.com/in/leonardo-zamudio-lopez/"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"></a>
-      <a href="mailto:zamudio.lopez.leonardo.3108@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png"></a>
-      <a href="https://www.facebook.com/leo.zamudio.8/"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/facebook.png"></a>
-      <a href="https://www.instagram.com/leo.zmd/"><img src="https://img.icons8.com/material-outlined/50/ffffff/instagram-new--v1.png"></a>
-      <a href="https://dev.to/leo_zamudio"><img src="https://img.icons8.com/windows/50/ffffff/dev.png"></a>
-      <a href="https://medium.com/@leozamudio"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/medium-logo.png"></a>
+      <hr>
+      <h3 align="center">Connect with me!</h3>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/leonardo-zamudio-lopez/"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"></a>
+        <a href="mailto:zamudio.lopez.leonardo.3108@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png"></a>
+        <a href="https://www.instagram.com/leo.zmd/"><img src="https://img.icons8.com/material-outlined/50/ffffff/instagram-new--v1.png"></a>
+        <a href="https://dev.to/leo_zamudio"><img src="https://img.icons8.com/windows/50/ffffff/dev.png"></a>
+        <a href="https://medium.com/@leozamudio"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/medium-logo.png"></a>
+      </p>
+      <hr>
+      <h3 align="center">Recently played on Spotify:</h3>
+      <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=j3zd8u784arv7w81zbuxwren2&cover_image=true&theme=natemoo-re&bar_color=6c9ae5&bar_color_cover=false"></p>
     </td>
   </tr>
 </table>
+
 <br/>
 
 <h2>⚙ My Skills</h2>
+<h3>💻 Programming Languages</h3>
+<table align="center" cellspacing="0">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.oracle.com/java/">
+        <img src="https://www.minecraftkrant.nl/media/157/java-logo.png" height="50px">
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org">
+        <img src="https://s.gravatar.com/avatar/3e2b342616822f8eabc9dd393840db4a?size=496&default=retro" height="50px">
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/javascript-logo.png" height="50px">
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.php.net">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPHP_logo.png&f=1&nofb=1" height="50px">
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" height="50px">
+      </a>
+      <br>Python
+    </td>
+  </tr>
+</table>
+<hr>
 <h3>🌐 Web Development</h3>
 <h4 align="center">💻 Front-End</h4>
 <table align="center" cellspacing="0">
@@ -53,7 +97,7 @@ Feel free to use this Markdown file as your README template
       <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
         <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/javascript-logo.png" height="50px">
       </a>
-      <br>Javascript
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="https://getbootstrap.com">
@@ -185,7 +229,6 @@ Feel free to use this Markdown file as your README template
 <hr>
 
 <h3>📅 Version Control</h3>
-<h4 align="center">🖥 Software</h4>
 <table align="center" cellspacing="0">
   <tr>
     <td align="center" width="96">
@@ -205,7 +248,6 @@ Feel free to use this Markdown file as your README template
 <hr>
 
 <h3>✏ UX/UI & Graphic Design</h3>
-<h4 align="center">🔧 Tools</h4>
 <table align="center" cellspacing="0">
   <tr>
     <td align="center" width="96">
