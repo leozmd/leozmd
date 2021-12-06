@@ -26,10 +26,12 @@ Feel free to use this Markdown file as your README template
       <h3 align="center">Connect with me!</h3>
       <p align="center">
         <a href="https://www.linkedin.com/in/leonardo-zamudio-lopez/"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"></a>
+        <a href="https://dev.to/leo_zamudio"><img src="https://img.icons8.com/windows/50/ffffff/dev.png"></a>
+        <a href="https://stackoverflow.com/users/16137802/leo-zamudio"><img src="https://img.icons8.com/ios-filled/50/ffffff/stackoverflow.png"></a>
+        <a href="https://codepen.io/leozmd"><img src="https://img.icons8.com/ios-filled/50/ffffff/codepen.png"></a>
+        <a href="https://medium.com/@leozamudio"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/medium-logo.png"></a>
         <a href="mailto:zamudio.lopez.leonardo.3108@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png"></a>
         <a href="https://www.instagram.com/leo.zmd/"><img src="https://img.icons8.com/material-outlined/50/ffffff/instagram-new--v1.png"></a>
-        <a href="https://dev.to/leo_zamudio"><img src="https://img.icons8.com/windows/50/ffffff/dev.png"></a>
-        <a href="https://medium.com/@leozamudio"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/medium-logo.png"></a>
       </p>
       <hr>
       <h3 align="center">Recently played on Spotify:</h3>
