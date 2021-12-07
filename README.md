@@ -419,8 +419,12 @@
 <br>
 
 <h2>📊 Github Stats</h2>
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=leozmd&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=leozmd&theme=tokyonight"></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozmd&theme=tokyonight"></p>
-<p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-<p><img src="https://github-profile-trophy.vercel.app/?username=leozmd&theme=tokyonight"></p>
+<details>
+  <summary>Expand to view</summary>
+  <br>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com?user=leozmd&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=leozmd&theme=tokyonight"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozmd&theme=tokyonight"></p>
+  <p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+  <p><img src="https://github-profile-trophy.vercel.app/?username=leozmd&theme=tokyonight"></p>
+</details>
