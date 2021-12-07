@@ -209,9 +209,9 @@
     </td>
     <td>
       <h3>Nightbot APIs</h3>
-      <p><b>Description: </b>APIs for Nightbot for Twitch and YouTube</p>
-      <p><b>Tech Stack: </b>PHP</p>
-      <p><a href="https://github.com/leozmd/apis-nightbot" target="_blank">Go to project</a></p>
+      <p><b>Description: </b>APIs for the Nightbot bot for Twitch and YouTube</p>
+      <p><b>Tech Stack: </b><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></p>
+      <p><a href="https://github.com/leozmd/apis-nightbot" target="_blank"><img src="https://img.shields.io/badge/Go_to_project-0054F7?style=for-the-badge"></a></p>
     </td>
   </tr>
 </table>
