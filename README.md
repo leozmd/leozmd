@@ -340,6 +340,21 @@
 </details>
 <br>
 
+<h2>📜 Diplomates (In alphabetical order)</h2>
+<details>
+  <summary>Expand to view</summary>
+  <br>
+  <table>
+    <tr>
+      <td>
+        <h3>Technical Diploma in Big Data</h3>
+        <p><b>Issued by: </b><a href="https://fundacioncarlosslim.org">Fundación Carlos Slim</a></p>
+        <p><b>Date issued: </b>August 26th, 2021</p>
+      </td>
+    </tr>
+  </table>
+</details>
+
 <h2>💻 Workspace Specs</h2>
 <img src="https://img.shields.io/badge/acer-aspire_3-83B81A?style=for-the-badge&logo=acer&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Intel-Pentium_Silver-0071C5?style=for-the-badge&logo=intel&logoColor=white"></img>
