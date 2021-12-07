@@ -354,6 +354,7 @@
     </tr>
   </table>
 </details>
+<br>
 
 <h2>💻 Workspace Specs</h2>
 <img src="https://img.shields.io/badge/acer-aspire_3-83B81A?style=for-the-badge&logo=acer&logoColor=white"></img>
