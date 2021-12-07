@@ -220,123 +220,177 @@
 <h2>📃 Certifications (In alphabetical order)</h2>
 <details>
   <summary><b>Expand to view</b></summary>
-  <ul>
-    <li>
-      <a href="https://capacitateparaelempleo.org/verifica/7b8a27baw/">
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Back-End Developer</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://capacitateparaelempleo.org/verifica/v577g2wcj/">
+        <p><b>Issued by: </b><a href="https://fundacioncarlosslim.org">Fundación Carlos Slim</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Big Data Visualizer</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://capacitateparaelempleo.org/verifica/xcm7udcp5/">
+        <p><b>Issued by: </b><a href="https://fundacioncarlosslim.org">Fundación Carlos Slim</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Cloud Computing Fundamentals</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://www.udemy.com/certificate/UC-7af02d5f-abe8-43dd-a564-90ef64081e46/">
+        <p><b>Issued by: </b><a href="https://fundacioncarlosslim.org">Fundación Carlos Slim</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Cybersecurity for businesses and individuals</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://capacitateparaelempleo.org/verifica/0g0dswrtj/">
+        <p><b>Issued by: </b><a href="https://udemy.com">Udemy</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Data Analyst</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://capacitateparaelempleo.org/verifica/27m6absrd/">
+        <p><b>Issued by: </b><a href="https://fundacioncarlosslim.org">Fundación Carlos Slim</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Data Curator</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://capacitateparaelempleo.org/verifica/w91myhjao/">
+        <p><b>Issued by: </b><a href="https://fundacioncarlosslim.org">Fundación Carlos Slim</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Data Networks Technician</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://capacitateparaelempleo.org/verifica/orp42nzrt/">
+        <p><b>Issued by: </b><a href="https://fundacioncarlosslim.org">Fundación Carlos Slim</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Databases Administrator</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://www.udemy.com/certificate/UC-02536748-5c26-4918-906f-7b9d3dd2adbb/">
+        <p><b>Issued by: </b><a href="https://fundacioncarlosslim.org">Fundación Carlos Slim</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Deep Web - The complete Introduction to the hidden web</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://learndigital.withgoogle.com/activate/validate-certificate-code">
+        <p><b>Issued by: </b><a href="https://udemy.com">Udemy</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Digitize your business with Google MyBussiness and YouTube</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://capacitateparaelempleo.org/verifica/5orrzkwn0/">
-        <h3>Economic Culture (Introduction)</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://capacitateparaelempleo.org/verifica/lzfzcmgtz/">
+        <p><b>Issued by: </b><a href="https://learndigital.withgoogle.com/activate">Google</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Finder</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://capacitateparaelempleo.org/verifica/a362aq4re/">
+        <p><b>Issued by: </b><a href="https://fundacioncarlosslim.org">Fundación Carlos Slim</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Front-End Developer</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://capacitateparaelempleo.org/verifica/7qx3b6v73/">
-        <h3>Global Citizen</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://www.linkedin.com/learning/como-establecer-y-cumplir-tus-objetivos-profesionales/como-establecer-y-cumplir-tus-objetivos-profesionales">
-        <h3>How to set and meet your professional goals</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://learndigital.withgoogle.com/activate/validate-certificate-code">
-        <h3>Introduction to Web Development I</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://learndigital.withgoogle.com/activate/validate-certificate-code">
-        <h3>Introduction to Web Development II</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://portal.certiport.com/Portal/Pages/CredentialVerification.aspx">
+        <p><b>Issued by: </b><a href="https://fundacioncarlosslim.org">Fundación Carlos Slim</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
+        <h3>Introduction to Web Development I & II</h3>
+        <p><b>Issued by: </b><a href="https://learndigital.withgoogle.com/activate">Google</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Microsoft Certified Azure Fundamentals</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://www.udemy.com/certificate/UC-c60256a9-cb32-4157-b3bd-2a2890818edd/">
+        <p><b>Issued by: </b><a href="https://www.microsoft.com/">Microsoft</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>MySQL Database Development Mastery</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://capacitateparaelempleo.org/verifica/qlu9c4yfm/">
+        <p><b>Issued by: </b><a href="https://udemy.com">Udemy</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Programmer (object oriented)</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://learndigital.withgoogle.com/activate/validate-certificate-code">
+        <p><b>Issued by: </b><a href="https://fundacioncarlosslim.org">Fundación Carlos Slim</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Protect your company: Cybersecurity in Teleworking</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://capacitateparaelempleo.org/verifica/zglq0mwz2/">
+        <p><b>Issued by: </b><a href="https://learndigital.withgoogle.com/activate">Google</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Servers Administrator</h3>
-      </a>
-    </li>
-    <li>
-      <a href="https://www.udemy.com/certificate/UC-8b255544-7f06-43eb-bab0-d0e1f6e09512/">
+        <p><b>Issued by: </b><a href="https://fundacioncarlosslim.org">Fundación Carlos Slim</a></p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <table>
+    <tr>
+      <td>
         <h3>Software Quality: 8 Essential KPIs for Quality Assurance</h3>
-      </a>
-    </li>
-  </ul>
+        <p><b>Issued by: </b><a href="https://udemy.com">Udemy</a></p>
+      </td>
+    </tr>
+  </table>
 </details>
 <br>
 
