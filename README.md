@@ -1,14 +1,11 @@
-<!--
-README.md for my profile
-Leonardo Zamudio
-Feel free to use this Markdown file as your README template
--->
+
 
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230262F7&center=true&vCenter=true&lines=Programming+Student;Full+Stack+Web+Developer;DS+%7C+AI+%7C+ML+Lover;Amateur+Graphic+Designer;Always+learning+something+new"></a>
 </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=leozmd&color=blue"></p>
 <hr/>
 <table align="center">
   <tr>
@@ -25,13 +22,17 @@ Feel free to use this Markdown file as your README template
       <hr>
       <h3 align="center">Connect with me!</h3>
       <p align="center">
-        <a href="https://www.linkedin.com/in/leonardo-zamudio-lopez/"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"></a>
-        <a href="https://dev.to/leo_zamudio"><img src="https://img.icons8.com/windows/50/ffffff/dev.png"></a>
-        <a href="https://stackoverflow.com/users/16137802/leo-zamudio"><img src="https://img.icons8.com/ios-filled/50/ffffff/stackoverflow.png"></a>
-        <a href="https://codepen.io/leozmd"><img src="https://img.icons8.com/ios-filled/50/ffffff/codepen.png"></a>
-        <a href="https://medium.com/@leozamudio"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/medium-logo.png"></a>
-        <a href="mailto:zamudio.lopez.leonardo.3108@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png"></a>
-        <a href="https://www.instagram.com/leo.zmd/"><img src="https://img.icons8.com/material-outlined/50/ffffff/instagram-new--v1.png"></a>
+        <p align="center">
+          <a href="https://www.linkedin.com/in/leonardo-zamudio-lopez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+          <a href="https://dev.to/leo_zamudio"><img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+          <a href="https://stackoverflow.com/users/16137802/leo-zamudio"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+        </p>
+        <p align="center">
+          <a href="https://codepen.io/leozmd"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+          <a href="https://medium.com/@leozamudio"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+          <a href="mailto:zamudio.lopez.leonardo.3108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+          <a href="https://www.instagram.com/leo.zmd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+        </p>
       </p>
       <hr>
       <h3 align="center">Recently played on Spotify:</h3>
@@ -43,210 +44,101 @@ Feel free to use this Markdown file as your README template
 <br/>
 
 <h2>⚙ My Skills</h2>
-<h3>💻 Programming Languages</h3>
-<table align="center" cellspacing="0">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.oracle.com/java/">
-        <img src="https://www.minecraftkrant.nl/media/157/java-logo.png" height="50px">
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.typescriptlang.org">
-        <img src="https://s.gravatar.com/avatar/3e2b342616822f8eabc9dd393840db4a?size=496&default=retro" height="50px">
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
-        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/javascript-logo.png" height="50px">
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.php.net">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPHP_logo.png&f=1&nofb=1" height="50px">
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" height="50px">
-      </a>
-      <br>Python
-    </td>
-  </tr>
-</table>
-<hr>
-<h3>🌐 Web Development</h3>
-<h4 align="center">💻 Front-End</h4>
-<table align="center" cellspacing="0">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://html.spec.whatwg.org/multipage/">
-        <img src="https://s2.qwant.com/thumbr/0x380/7/6/2f92506787980a15aa9ffaec933af04f1398e537844430db3baeed26560b85/html5-logo-2.png?u=https%3A%2F%2Fclipground.com%2Fimages%2Fhtml5-logo-2.png&q=0&b=1&p=0&a=0" height="50px">
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-        <img src="https://s2.qwant.com/thumbr/0x380/7/7/b06685b33ef0f38ab2ccb0422e12b36e49a7363cc9f6d6aed54f23552475fc/css3-logo.png?u=http%3A%2F%2Fverekia.com%2F_pages%2Fcss3%2Fintroduction-css3%2Fimg%2Fcss3-logo.png&q=0&b=1&p=0&a=0" height="50px">
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
-        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/javascript-logo.png" height="50px">
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://getbootstrap.com">
-        <img src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack.png" height="50px">
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="https://jquery.com">
-        <img src="https://logodix.com/logo/941120.png" height="50px">
-      </a>
-      <br>jQuery
-    </td>
-  </tr>
-</table>
-<br/>
 
-<h4 align="center">💽 Back-End</h4>
-<table align="center" cellspacing="0">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.oracle.com/java/technologies/jspt.html">
-        <img src="https://www.minecraftkrant.nl/media/157/java-logo.png" height="50px">
-      </a>
-      <br>JSP
-    </td>
-    <td align="center" width="96">
-      <a href="https://flask.palletsprojects.com/en/2.0.x/">
-        <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fflask-training-courses.uk%2Fimages%2Fflask-logo.png&f=1&nofb=1" height="50px">
-      </a>
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <a href="https://nodejs.org/en/">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fnodejs-icon-logo-png-transparent.png&f=1&nofb=1" height="50px">
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.php.net">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPHP_logo.png&f=1&nofb=1" height="50px">
-      </a>
-      <br>PHP
-    </td>
-  </tr>
-</table>
+<h3>💻 Programming Languages</h3>
+<a href="https://www.oracle.com/java/">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</a>
+<a href="https://www.typescriptlang.org">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</a>
+<a href="https://www.php.net">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</a>
+<a href="https://www.python.org">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+<hr>
+
+<h3>🌐 Web Development</h3>
+<h4>💻 Front-End</h4>
+<a href="https://html.spec.whatwg.org/multipage/">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</a>
+<a href="https://getbootstrap.com">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</a>
+<a href="https://jquery.com">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+</a>
+<br>
+
+<h4>💽 Back-End</h4>
+<a href="https://www.oracle.com/java/technologies/jspt.html">
+  <img src="https://img.shields.io/badge/JSP-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+</a>
+<a href="https://nodejs.org/en/">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</a>
+<a href="https://www.php.net">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</a>
+
 <hr>
 
 <h3>💾 Data Storage and Processing</h3>
-<h4 align="center">🗃 Databases</h4>
-<table align="center" cellspacing="0">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://en.wikipedia.org/wiki/SQL">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.analyticsvidhya.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fsql-logo.png&f=1&nofb=1" height="50px">
-      </a>
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.elearningworld.org%2Fwp-content%2Fuploads%2F2019%2F04%2FMySQL.svg.png&f=1&nofb=1" height="50px">
-      </a>
-      <br>MySQL
-    </td>
-  </tr>
-</table>
+<h4>🗃 Databases</h4>
+<a href="https://www.mysql.com">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
 <br>
-<h4 align="center">📈 Data Processing</h4>
-<table align="center" cellspacing="0">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://numpy.org">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fasset.jarombek.com%2Flogos%2Fnumpy.png&f=1&nofb=1" height="50px">
-      </a>
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-      <a href="https://pandas.pydata.org">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.6leLGeaY3wb2S2zYaKuRYAAAAA%26pid%3DApi&f=1" height="50px">
-      </a>
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <a href="https://matplotlib.org">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F01%2FCreated_with_Matplotlib-logo.svg%2F1200px-Created_with_Matplotlib-logo.svg.png&f=1&nofb=1" height="50px">
-      </a>
-      <br>Matplotlib
-    </td>
-    <td align="center" width="96">
-      <a href="https://seaborn.pydata.org">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg1.daumcdn.net%2Fthumb%2FR800x0%2F%3Fscode%3Dmtistory2%26fname%3Dhttps%3A%252F%252Fblog.kakaocdn.net%252Fdn%252F4UIIH%252FbtqIH4tfonl%252FLyCOqYkmqKo1gFrogryni1%252Fimg.png&f=1&nofb=1" height="50px">
-      </a>
-      <br>Seaborn
-    </td>
-  </tr>
-</table>
+
+<h4>📈 Data Processing</h4>
+<a href="https://numpy.org">
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+</a>
+<a href="https://pandas.pydata.org">
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+</a>
+
 <hr>
 
 <h3>☁ Cloud Computing and Hosting</h3>
-<h4 align="center">📡 Cloud Computing Services</h4>
-<table align="center" cellspacing="0">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://azure.microsoft.com/en-us/overview/">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fmicrosoft-azure-clipart-logo-4.png&f=1&nofb=1" height="50px">
-      </a>
-      <br>Microsoft Azure
-    </td>
-  </tr>
-</table>
+<h4>📡 Cloud Computing Services</h4>
+<a href="https://azure.microsoft.com/en-us/overview/">
+  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+</a>
 <br>
-<h4 align="center">📦 Hosting</h4>
-<table align="center" cellspacing="0">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://docs.github.com/en/pages">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fgithub-logo-png-white-github-11-icon-free-white-social-icons-512x512.png&f=1&nofb=1" height="50px">
-      </a>
-      <br>GitHub Pages
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.heroku.com">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fheroku-logo-3.png&f=1&nofb=1" height="50px">
-      </a>
-      <br>Heroku
-    </td>
-  </tr>
-</table>
+<h4>📦 Hosting</h4>
+<a href="https://docs.github.com/en/pages">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.heroku.com">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+</a>
+
 <hr>
 
 <h3>📅 Version Control</h3>
-<table align="center" cellspacing="0">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://git-scm.com">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fsocial-media-2169%2F24%2Fsocial_media_social_media_logo_git-512.png&f=1&nofb=1" height="50px">
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fgithub-logo-png-white-github-11-icon-free-white-social-icons-512x512.png&f=1&nofb=1" height="50px">
-      </a>
-      <br>GitHub
-    </td>
-  </tr>
-</table>
+<a href="https://git-scm.com">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
+<a href="https://github.com">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 <hr>
 
 <h3>✏ UX/UI & Graphic Design</h3>
