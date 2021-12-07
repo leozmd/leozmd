@@ -340,6 +340,12 @@
 </details>
 <br>
 
+<h2>💻 Workspace Specs</h2>
+<img src="https://img.shields.io/badge/acer-aspire_3-83B81A?style=for-the-badge&logo=acer&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Intel-Pentium_Silver-0071C5?style=for-the-badge&logo=intel&logoColor=white"></img>
+<img src="https://img.shields.io/badge/ram-8_gb-000000?style=for-the-badge"></img>
+<img src="https://img.shields.io/badge/Windows-10_Home-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
+
 <h2>📊 Github Stats</h2>
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=leozmd&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=leozmd&theme=tokyonight"></p>
