@@ -6,7 +6,7 @@
 <hr/>
 <table align="center">
   <tr>
-    <td><img src="https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/246416002_336008178325938_350450232364148551_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGQFzt32_3Zuj46cxCBM5yuJP8AkZe-Yj8k_wCRl75iP6DafY_O-d8-Zv5Rb9PSQMjltIY70lQ0Iwk1DDNjKjdy&_nc_ohc=JrRl8c8K1l0AX-gGjxJ&_nc_ht=scontent.fmex1-1.fna&oh=69c9fcf6c1beb34e096ad090508fe277&oe=61AC1597" height="300px"></td>
+    <td><img src="https://instagram.fmex2-1.fna.fbcdn.net/v/t51.2885-15/e35/245712713_434504738075103_2128626568731229834_n.jpg?_nc_ht=instagram.fmex2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=H6y3R7F8sr0AX_QvosY&edm=AP_V10EBAAAA&ccb=7-4&oh=17a6aa23bcaeada353daeb4b0f05e22a&oe=61B97C80&_nc_sid=4f375e" height="300px"></td>
     <td><h3 align="center">General information</h3>
       <p>● Name: Leonardo Zamudio López</p>
       <p>● Occupation: Student</p>
