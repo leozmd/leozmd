@@ -6,7 +6,7 @@
 <hr/>
 <table align="center">
   <tr>
-    <td><img src="https://instagram.fmex2-1.fna.fbcdn.net/v/t51.2885-15/e35/245712713_434504738075103_2128626568731229834_n.jpg?_nc_ht=instagram.fmex2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=H6y3R7F8sr0AX_QvosY&edm=AP_V10EBAAAA&ccb=7-4&oh=17a6aa23bcaeada353daeb4b0f05e22a&oe=61B97C80&_nc_sid=4f375e" height="300px"></td>
+    <td><img src="https://github.com/leozmd/leozmd/blob/main/271720122_392433992683356_8143969898513791801_n.jpg?raw=true" height="300px"></td>
     <td><h3 align="center">General information</h3>
       <p>● 📛 Name: Leonardo Zamudio López</p>
       <p>● 💼 Occupation: 👨‍🎓 Student</p>
