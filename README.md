@@ -31,10 +31,6 @@
         </p>
       </p></td>
   </tr>
-  <tr>
-    <td colspan="2"><h3 align="center">Recently played on Spotify:</h3>
-      <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=j3zd8u784arv7w81zbuxwren2&cover_image=true&theme=natemoo-re&bar_color=6c9ae5&bar_color_cover=false"></p></td>
-  </tr>
 </table>
 
 <br/>
@@ -168,7 +164,7 @@
   <img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white">
 </a>
 <br>
-<h4>💻 Integrated Development Environments (IDEs)</h4>
+<h4>💻 Integrated Development Environments (IDEs) and Code Editors</h4>
 <a href="https://code.visualstudio.com">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </a>
@@ -208,7 +204,7 @@
 <img src="https://img.shields.io/badge/acer-aspire_3-83B81A?style=for-the-badge&logo=acer&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Intel-Pentium_Silver-0071C5?style=for-the-badge&logo=intel&logoColor=white"></img>
 <img src="https://img.shields.io/badge/ram-8_gb-000000?style=for-the-badge"></img>
-<img src="https://img.shields.io/badge/Windows-10_Home-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
 
 <br>
 
