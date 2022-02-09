@@ -204,7 +204,7 @@
 <img src="https://img.shields.io/badge/acer-aspire_3-83B81A?style=for-the-badge&logo=acer&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Intel-Pentium_Silver-0071C5?style=for-the-badge&logo=intel&logoColor=white"></img>
 <img src="https://img.shields.io/badge/ram-8_gb-000000?style=for-the-badge"></img>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
+<img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></img>
 
 <br>
 
